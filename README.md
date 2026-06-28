@@ -1,4 +1,4 @@
-## NextJS-API-Login
+## NextJS API - Login with JWT Authentication
 
 ### User Login API with JWT Authentication
 ![](https://imgur.com/ueFPNli.png)
